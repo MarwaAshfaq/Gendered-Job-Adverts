@@ -26,10 +26,10 @@
 - **`Secondstagefiltering.ipynb`** - Advanced filtering and data quality assurance
 
 ### 🔬 Analysis Notebooks
-- **`AIAnalysis.ipynb`** - AI-powered bias detection using GPT models
-- **`LexiconAnalysis.ipynb`** - Lexicon-based gendered language analysis
-- **`SentimentAnalysis.ipynb`** - Sentiment analysis with OR-specific lexicon
-- **`SurveyAnalysis.ipynb`** - Professional survey data analysis
+- **`AIAnalysis.ipynb`** - AI-powered bias detection using LLM models and statistical analysis
+- **`LexiconAnalysis.ipynb`** - Lexicon-based gendered language analysis and statistical analysis
+- **`SentimentAnalysis.ipynb`** - Sentiment analysis with OR-specific lexicon and statistical analysis
+- **`SurveyAnalysis.ipynb`** - Professional survey data analysis and statistical analysis
 
 ### 📊 Visualizations
 - **`Quantitative Dashboard.html`** - Interactive job advertisement analysis dashboard
